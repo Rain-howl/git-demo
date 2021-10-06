@@ -7,3 +7,4 @@ hot-fix
 在GitHub里面修改
 yyh修改
 yyh注册GitHub后修改
+删除凭证后修改再用yyh上传
